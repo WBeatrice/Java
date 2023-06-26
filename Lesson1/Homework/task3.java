@@ -8,10 +8,6 @@ public class task3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        // String sum = "+";
-        // String minus = "-";
-        // String multiply = "*";
-        // String divide = "/";
         int result;
 
         System.out.print("Enter the first number: ");
