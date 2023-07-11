@@ -22,7 +22,7 @@ public class task2 {
         list.add(9);
     
         for (int o : list) {
-            if (list.get(o) % 2 != 0){
+            if (list.get(o) % 2 == 0){
                 System.out.println(o);
             }
         }
